@@ -1,0 +1,283 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/V2JSkN1/1.jpg",
+        "title": "The Whispering Shadows",
+        "author": "Emily Carter",
+        "author_image": "https://i.ibb.co.com/924DpXf/girl2.jpg",
+        "published_date": "2022-03-15",
+        "reading_time": 6,
+        "hashtags": [
+            "#mystery",
+            "#thriller",
+            "#fiction"
+        ],
+        "description": "In a seemingly tranquil small town, strange occurrences start to unravel the fabric of community life. As secrets emerge, detective Clara James races against time to solve a series of mysterious disappearances. With each clue leading her deeper into the shadows, Clara must confront her own past to uncover the truth before it’s too late.",
+        "authors_books": [
+            "The Whispering Shadows",
+            "Echoes of the Past",
+            "Silent Scream"
+        ],
+        "author_details": {
+            "bio": "Emily Carter is a bestselling author known for her psychological thrillers that keep readers on the edge of their seats. With a background in psychology, Emily intricately weaves complex characters and suspenseful plots into her writing.",
+            "awards": [
+                "Best Thriller of the Year 2021",
+                "Reader's Choice Award 2022"
+            ],
+            "interviews": [
+                "Interview with Book Magazine 2023",
+                "Podcast: Behind the Pages"
+            ],
+            "website": "https://emilycarterbooks.com"
+        }
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/jb09Wfp/2.png",
+        "title": "Journey to the Stars",
+        "author": "Michael Reynolds",
+        "author_image": "https://i.ibb.co.com/7kRJjjy/girl1.jpg",
+        "published_date": "2021-07-22",
+        "reading_time": 8,
+        "hashtags": [
+            "#sciencefiction",
+            "#space",
+            "#adventure"
+        ],
+        "description": "Follow Captain Mira Torres and her diverse crew aboard the starship Zenith as they embark on a mission to explore uncharted galaxies. Encountering alien civilizations and facing interstellar dangers, they must navigate political intrigue and ethical dilemmas, ultimately discovering the true meaning of unity and courage in the cosmos.",
+        "authors_books": [
+            "Journey to the Stars",
+            "Beyond the Horizon",
+            "Galactic Odyssey"
+        ],
+        "author_details": {
+            "bio": "Michael Reynolds is a science fiction enthusiast and writer with a passion for exploring the cosmos through storytelling. His work often reflects his fascination with technology and its impact on society.",
+            "education": "Master's in Astrophysics, University of California",
+            "publications": [
+                "Astrophysics Today",
+                "Space Exploration Monthly"
+            ],
+            "website": "https://michaelreynolds.com"
+        }
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/XbgrQ0h/3.png",
+        "title": "The Art of Living",
+        "author": "Sophia Tran",
+        "author_image": "https://i.ibb.co.com/vzpx3L8/boy2.jpg",
+        "published_date": "2023-01-10",
+        "reading_time": 5,
+        "hashtags": [
+            "#selfhelp",
+            "#wellness",
+            "#inspiration"
+        ],
+        "description": "Sophia Tran offers a transformative guide that integrates mindfulness and practical strategies to enhance everyday life. Through personal anecdotes and actionable exercises, readers are invited to reflect on their values, set meaningful goals, and cultivate a sense of gratitude, leading to a more balanced and fulfilling existence.",
+        "authors_books": [
+            "The Art of Living",
+            "Mindfulness Made Easy",
+            "The Happiness Project"
+        ],
+        "author_details": {
+            "bio": "Sophia Tran is a motivational speaker and author focused on personal development. With over a decade of experience in coaching and wellness, she empowers individuals to live their best lives.",
+            "speaking_engagements": [
+                "TEDx Speaker",
+                "Wellness Retreat Facilitator"
+            ],
+            "media_features": [
+                "Featured in Wellness Weekly",
+                "Guest on Mindful Moments Podcast"
+            ],
+            "website": "https://sophiatran.com"
+        }
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/Wk9J3ns/4.jpg",
+        "title": "Secrets of the Ocean",
+        "author": "Liam Foster",
+        "author_image": "https://i.ibb.co.com/c3xJp43/boy1.png",
+        "published_date": "2022-09-05",
+        "reading_time": 7,
+        "hashtags": [
+            "#nature",
+            "#environment",
+            "#documentary"
+        ],
+        "description": "Dive into the depths of the ocean with Liam Foster as he reveals the incredible ecosystems and the fascinating creatures that inhabit them. This beautifully illustrated book combines stunning photography with scientific insights, exploring the urgent need for conservation and the challenges facing our oceans today.",
+        "authors_books": [
+            "Secrets of the Ocean",
+            "Underwater Wonders",
+            "Marine Life Unveiled"
+        ],
+        "author_details": {
+            "bio": "Liam Foster is a marine biologist and author passionate about ocean conservation. His work aims to raise awareness about environmental issues and inspire readers to take action.",
+            "experience": "10 years as a marine researcher and conservationist",
+            "documentaries": [
+                "Ocean's Secrets (2021)",
+                "Blue Planet: A Deeper Look (2020)"
+            ],
+            "website": "https://liamfoster.com"
+        }
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/dkZQJy9/c1.jpg",
+        "title": "The Forgotten Kingdom",
+        "author": "Ava Bennett",
+        "author_image": "https://i.ibb.co.com/p3b9cBV/pp1.jpg",
+        "published_date": "2020-11-30",
+        "reading_time": 9,
+        "hashtags": [
+            "#fantasy",
+            "#adventure",
+            "#epic"
+        ],
+        "description": "In a land where magic has been forgotten, young sorceress Elara discovers an ancient prophecy that could change everything. As she embarks on a quest to reclaim her kingdom’s lost magic, she must confront treacherous foes and unite unlikely allies. This epic fantasy weaves a tale of courage, friendship, and the enduring power of hope.",
+        "authors_books": [
+            "The Forgotten Kingdom",
+            "Legends of the Realm",
+            "Magic Awakened"
+        ],
+        "author_details": {
+            "bio": "Ava Bennett is a fantasy author known for her imaginative worlds and characters. She draws inspiration from folklore and mythology to create rich, immersive narratives.",
+            "background": "Bachelor's in English Literature, University of London",
+            "fan_engagement": [
+                "Active on social media",
+                "Hosts monthly Q&A sessions"
+            ],
+            "website": "https://avabennett.com"
+        }
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co.com/k6w7tF3/c2.jpg",
+        "title": "Culinary Delights",
+        "author": "Oliver Stone",
+        "author_image": "https://i.ibb.co.com/b51NC3T/pp1.jpg",
+        "published_date": "2023-04-18",
+        "reading_time": 3,
+        "hashtags": [
+            "#cooking",
+            "#recipes",
+            "#food"
+        ],
+        "description": "Join renowned chef Oliver Stone in this delightful cookbook featuring a diverse array of recipes from across the globe. With easy-to-follow instructions, culinary tips, and vibrant photography, readers will be inspired to create memorable meals for family and friends, while discovering the cultural significance behind each dish.",
+        "authors_books": [
+            "Culinary Delights",
+            "Flavors of the World",
+            "Gourmet Essentials"
+        ],
+        "author_details": {
+            "bio": "Oliver Stone is a renowned chef and cookbook author, celebrated for his fusion of traditional and modern culinary techniques. He has appeared on various cooking shows and has a loyal following.",
+            "culinary_background": "Trained at Le Cordon Bleu, Paris",
+            "cooking_shows": [
+                "Chef's Table",
+                "Cooking with Oliver"
+            ],
+            "website": "https://oliverstonecooks.com"
+        }
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co.com/X2tV17k/c3.jpg",
+        "title": "The Mind's Eye",
+        "author": "Isabella Nguyen",
+        "author_image": "https://i.ibb.co.com/8Ycb0Xr/pp2.jpg",
+        "published_date": "2023-06-25",
+        "reading_time": 4,
+        "hashtags": [
+            "#psychology",
+            "#selfdiscovery",
+            "#mentalhealth"
+        ],
+        "description": "In 'The Mind's Eye', psychologist Isabella Nguyen delves deep into the complexities of human thought and emotion. Through engaging case studies and practical exercises, she encourages readers to explore their own minds, fostering a better understanding of mental health, emotional intelligence, and the journey of self-discovery.",
+        "authors_books": [
+            "The Mind's Eye",
+            "Understanding Emotions",
+            "The Power of Thoughts"
+        ],
+        "author_details": {
+            "bio": "Isabella Nguyen is a psychologist and author focusing on mental health awareness. She combines her clinical experience with a passion for writing to make psychology accessible to everyone.",
+            "clinical_experience": "15 years in private practice",
+            "advocacy_work": [
+                "Mental Health Workshops",
+                "Community Support Groups"
+            ],
+            "website": "https://isabellanguyen.com"
+        }
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co.com/gycmgBB/c5.jpg",
+        "title": "The Edge of Tomorrow",
+        "author": "Olivia White",
+        "author_image": "https://i.ibb.co.com/6YhMhnD/pp4.jpg",
+        "published_date": "2023-08-21",
+        "reading_time": "7.5 hours",
+        "hashtags": [
+            "dystopian",
+            "science fiction",
+            "future"
+        ],
+        "description": "In a dystopian future, one woman fights to save what remains of humanity.",
+        "authors_books": [
+            "The Edge of Tomorrow",
+            "Rise of the Machines"
+        ],
+        "author_details": {
+            "age": 34,
+            "nationality": "British",
+            "bio": "Olivia White is known for her fast-paced, dystopian novels that explore themes of technology and humanity."
+        }
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co.com/dtT5Qd0/c6.jpg",
+        "title": "A Dance with Dragons",
+        "author": "Gregory King",
+        "author_image": "https://i.ibb.co.com/Mg26YGJ/pp5.jpg",
+        "published_date": "2023-10-01",
+        "reading_time": "11 hours",
+        "hashtags": [
+            "fantasy",
+            "adventure",
+            "dragons"
+        ],
+        "description": "A young hero embarks on a quest through a land ruled by dragons.",
+        "authors_books": [
+            "A Dance with Dragons",
+            "The Fire Within"
+        ],
+        "author_details": {
+            "age": 40,
+            "nationality": "Irish",
+            "bio": "Gregory King has built a fan base with his imaginative fantasy novels filled with rich world-building."
+        }
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co.com/VHkQtFY/c4.jpg",
+        "title": "Under the Pale Moon",
+        "author": "Laura Knight",
+        "author_image": "https://i.ibb.co.com/NKJdn8b/pp6.jpg",
+        "published_date": "2022-07-07",
+        "reading_time": "6.5 hours",
+        "hashtags": [
+            "horror",
+            "supernatural",
+            "dark"
+        ],
+        "description": "A haunting tale of ghosts and spirits that lurk under the pale moonlight.",
+        "authors_books": [
+            "Under the Pale Moon",
+            "The Dark Woods"
+        ],
+        "author_details": {
+            "age": 28,
+            "nationality": "American",
+            "bio": "Laura Knight's supernatural horror novels have earned her a dedicated readership."
+        }
+    }
+]
